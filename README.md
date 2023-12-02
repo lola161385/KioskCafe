@@ -62,13 +62,29 @@
 
 ### Form4
 - 결제 창
+  
+  <p align="left">
+     <img src="https://github.com/lola161385/KioskCafe/assets/35729214/3e8cb647-d01e-4770-aced-5642c9dabbbf">
+  </p>
+  
   - 현금 결제
-     - 
+      <p align="left">
+        <img src="https://github.com/lola161385/KioskCafe/assets/35729214/b3d793fc-f8da-4de4-8dc8-37859b85d430">
+      </p>
+      
+    - 현금 입력창에 총 금액보다 적으면 다시 입력 문구 출력
+    - 현금 입력창에 총 금액보다 크거나 같으면 결제 완료
+    - 취소 버튼 누르면 초기 결제 창으로 이동
   - 카드 결제
+    <p align="left">
+        <img src="https://github.com/lola161385/KioskCafe/assets/35729214/b3d793fc-f8da-4de4-8dc8-37859b85d430">
+     </p>
+      
   - 쿠폰 결제
-<p align="left">
-  <img src="https://github.com/lola161385/KioskCafe/assets/35729214/3e8cb647-d01e-4770-aced-5642c9dabbbf">
-</p>
+    <p align="left">
+        <img src="https://github.com/lola161385/KioskCafe/assets/35729214/b3d793fc-f8da-4de4-8dc8-37859b85d430">
+     </p>
+
 
 ### 🖥 고객 주문 화면
 
