@@ -158,66 +158,66 @@
             tPrice1.BorderStyle = BorderStyle.None;
             tPrice1.Location = new Point(17, 116);
             tPrice1.Name = "tPrice1";
+            tPrice1.ReadOnly = true;
             tPrice1.Size = new Size(72, 16);
             tPrice1.TabIndex = 16;
             tPrice1.Text = "500";
             tPrice1.TextAlign = HorizontalAlignment.Center;
-            tPrice1.ReadOnly = true;
             // 
             // tPrice2
             // 
             tPrice2.BorderStyle = BorderStyle.None;
             tPrice2.Location = new Point(148, 116);
             tPrice2.Name = "tPrice2";
+            tPrice2.ReadOnly = true;
             tPrice2.Size = new Size(72, 16);
             tPrice2.TabIndex = 17;
             tPrice2.Text = "300";
             tPrice2.TextAlign = HorizontalAlignment.Center;
-            tPrice2.ReadOnly = true;
             // 
             // tPrice3
             // 
             tPrice3.BorderStyle = BorderStyle.None;
             tPrice3.Location = new Point(278, 116);
             tPrice3.Name = "tPrice3";
+            tPrice3.ReadOnly = true;
             tPrice3.Size = new Size(72, 16);
             tPrice3.TabIndex = 18;
             tPrice3.Text = "600";
             tPrice3.TextAlign = HorizontalAlignment.Center;
-            tPrice3.ReadOnly = true;
             // 
             // tPrice5
             // 
             tPrice5.BorderStyle = BorderStyle.None;
             tPrice5.Location = new Point(278, 247);
             tPrice5.Name = "tPrice5";
+            tPrice5.ReadOnly = true;
             tPrice5.Size = new Size(72, 16);
             tPrice5.TabIndex = 25;
             tPrice5.Text = "200";
             tPrice5.TextAlign = HorizontalAlignment.Center;
-            tPrice5.ReadOnly = true;
             // 
             // tPrice6
             // 
             tPrice6.BorderStyle = BorderStyle.None;
             tPrice6.Location = new Point(148, 247);
             tPrice6.Name = "tPrice6";
+            tPrice6.ReadOnly = true;
             tPrice6.Size = new Size(72, 16);
             tPrice6.TabIndex = 24;
             tPrice6.Text = "300";
             tPrice6.TextAlign = HorizontalAlignment.Center;
-            tPrice6.ReadOnly = true;
             // 
             // tPrice7
             // 
             tPrice7.BorderStyle = BorderStyle.None;
             tPrice7.Location = new Point(17, 247);
             tPrice7.Name = "tPrice7";
+            tPrice7.ReadOnly = true;
             tPrice7.Size = new Size(72, 16);
             tPrice7.TabIndex = 23;
             tPrice7.Text = "1000";
             tPrice7.TextAlign = HorizontalAlignment.Center;
-            tPrice7.ReadOnly = true;
             // 
             // button4
             // 
@@ -241,10 +241,10 @@
             textBox4.Font = new Font("휴먼모음T", 9F, FontStyle.Regular, GraphicsUnit.Point, 129);
             textBox4.Location = new Point(9, 295);
             textBox4.Name = "textBox4";
+            textBox4.ReadOnly = true;
             textBox4.Size = new Size(261, 14);
             textBox4.TabIndex = 26;
             textBox4.Text = "※ 아이스 미 선택시 따뜻한 음료로 주문됩니다.";
-            textBox4.ReadOnly= true;
             // 
             // Form3
             // 
@@ -267,8 +267,7 @@
             Controls.Add(button1);
             Margin = new Padding(2);
             Name = "Form3";
-            Text = "Form2";
-            //Load += Form3_Load;
+            Text = "Form3";
             ResumeLayout(false);
             PerformLayout();
         }

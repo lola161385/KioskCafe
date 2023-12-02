@@ -332,6 +332,8 @@ namespace KioskCafe
             Message.Text = string.Empty;
             Message.Visible = false;
             cancelButton.Visible = false;
+            cash_button.Visible = false;
+            cash_input.Visible = false;
         }
         // 취소 버튼 클릭 함수
         private void cancleButton_Click(object sender, EventArgs e)
