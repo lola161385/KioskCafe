@@ -80,44 +80,20 @@
   - 쿠폰 결제
     - 결제 완료
   - 영수증 출력 & 주문 번호만 출력
+    - 영수증 크기는 주문 내역에 따라 변동됨
+    <p align="left">
+        <img src="https://github.com/lola161385/KioskCafe/assets/35729214/1f60f883-8a52-47d6-a80f-c46447388773">
+    </p>
     
-
-### 🖥 고객 주문 화면
-
-- 고객은 손쉽게 자신이 원하는 상품을 고르고 주문할 수 있습니다.
-- 결재는 카카오 페이로 손쉽게 가능합니다.
-
 ## 📀 프로젝트 기술스택
 
 ### 프론트 앤드
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
-<img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Recoil-1414A0?style=for-the-badge&logo=Recoil&logoColor=white" />
-<img src="https://img.shields.io/badge/FramerMotion-0055FF?style=for-the-badge&logo=Framer&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=Framer&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Code gen-FAFAFA?style=for-the-badge&logo=Code gen&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/ReactHookForm-DB7093?style=for-the-badge&logo=ReactHookForm&logoColor=white" />
-
-### 백앤드
-
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/jwt-3178C6?style=for-the-badge&logo=jwt&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Node.js 16.x-339933?style=for-the-badge&logo=Node.js&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/typeorm-262627?style=for-the-badge&logo=typeorm&logoColor=white" />
+<img src="https://img.shields.io/badge/Csharp-512BD4?style=for-the-badge&logo=Csharp&logoColor=white" />
 
 ### 형상관리
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 
 ### 인프라
-
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Ubuntu 20.x-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
-
-## 👨‍👩‍👧‍👧 누구나 키오스크 팀
-
-|                                          Frontend                                          |                                          Frontend                                          |                                          Backend                                           |                                          Backend                                           |
-| :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: |
-| <img src="https://avatars.githubusercontent.com/u/44064122?v=4" width=400px alt="고현수"/> | <img src="https://avatars.githubusercontent.com/u/95143138?v=4" width=400px alt="조서연"/> | <img src="https://avatars.githubusercontent.com/u/39974627?v=4" width=400px alt="정선교"/> | <img src="https://avatars.githubusercontent.com/u/56436283?v=4" width=400px alt="조민수"/> |
-|                            [고현수](https://github.com/movie42)                            |                            [조서연](https://github.com/sycho09)                            |                           [정선교](https://github.com/tjsry0466)                           |                          [조민수](https://github.com/minsoo0715)                           |
-
-## 🕹 아키텍쳐
-
-![아키텍쳐](https://user-images.githubusercontent.com/44064122/180215835-3dc96d91-f7cb-4638-ae55-4e851a4d481c.png)
-
-## 🛠 CI/CD
-
-![CICD](https://user-images.githubusercontent.com/44064122/180215824-6e7a9b14-f44f-493e-97c2-251092bb4769.png)
+<img src="https://img.shields.io/badge/Windows 10-30078D6?style=for-the-badge&logo=Windows 10&logoColor=white" />
