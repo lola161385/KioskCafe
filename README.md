@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/44064122/180661805-87a78eb2-ca02-42cd-
 ### Form2
 
 - 간편하게 이메일과 이름을 입력하면 가입할 수 있습니다.
-- https://github.com/lola161385/KioskCafe/issues/1#issue-2022043287
+https://github.com/lola161385/KioskCafe/issues/1#issue-2022043287
 
 ### 📇 가게 등록 및 관리
 
