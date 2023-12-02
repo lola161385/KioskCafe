@@ -625,12 +625,12 @@ namespace KioskCafe
             // Form2에 전역변수로 status를 처리하는 기능
             if (Topping == 1)                                               // 1일경우에는 커피로 인식해서 커피에대한 토핑 form3 실행
             {
-                Form form3 = new Form3(this, group);
+                Form form3 = new Form3(this, group, menuButton_1.Text);
                 form3.Show();
             }
             else if (Topping == 2)                                          // 2일 경우에는 스무디로 인식해서 스무디에대한 토핑 form5 실행
             {
-                Form form5 = new Form5(this, group);
+                Form form5 = new Form5(this, group, menuButton_1.Text);
                 form5.Show();
             }
         }
@@ -648,12 +648,12 @@ namespace KioskCafe
             addTotalPrice(price_2);
             if (Topping == 1)
             {
-                Form form3 = new Form3(this, group);
+                Form form3 = new Form3(this, group, menuButton_2.Text);
                 form3.Show();
             }
             else if (Topping == 2)
             {
-                Form form5 = new Form5(this, group);
+                Form form5 = new Form5(this, group, menuButton_2.Text);
                 form5.Show();
             }
         }
@@ -671,12 +671,12 @@ namespace KioskCafe
             addTotalPrice(price_3);
             if (Topping == 1)
             {
-                Form form3 = new Form3(this, group);
+                Form form3 = new Form3(this, group, menuButton_3.Text);
                 form3.Show();
             }
             else if (Topping == 2)
             {
-                Form form5 = new Form5(this, group);
+                Form form5 = new Form5(this, group, menuButton_3.Text);
                 form5.Show();
             }
         }
@@ -694,12 +694,12 @@ namespace KioskCafe
             addTotalPrice(price_4);
             if (Topping == 1)
             {
-                Form form3 = new Form3(this, group);
+                Form form3 = new Form3(this, group, menuButton_4.Text);
                 form3.Show();
             }
             else if (Topping == 2)
             {
-                Form form5 = new Form5(this, group);
+                Form form5 = new Form5(this, group, menuButton_4.Text);
                 form5.Show();
             }
         }
@@ -717,12 +717,12 @@ namespace KioskCafe
             addTotalPrice(price_5);
             if (Topping == 1)
             {
-                Form form3 = new Form3(this, group);
+                Form form3 = new Form3(this, group, menuButton_5.Text);
                 form3.Show();
             }
             else if (Topping == 2)
             {
-                Form form5 = new Form5(this, group);
+                Form form5 = new Form5(this, group, menuButton_5.Text);
                 form5.Show();
             }
         }
@@ -740,12 +740,12 @@ namespace KioskCafe
             addTotalPrice(price_6);
             if (Topping == 1)
             {
-                Form form3 = new Form3(this, group);
+                Form form3 = new Form3(this, group, menuButton_6.Text);
                 form3.Show();
             }
             else if (Topping == 2)
             {
-                Form form5 = new Form5(this, group);
+                Form form5 = new Form5(this, group, menuButton_6.Text);
                 form5.Show();
             }
         }
@@ -762,12 +762,12 @@ namespace KioskCafe
             addTotalPrice(price_7);
             if (Topping == 1)
             {
-                Form form3 = new Form3(this, group);
+                Form form3 = new Form3(this, group, menuButton_7.Text);
                 form3.Show();
             }
             else if (Topping == 2)
             {
-                Form form5 = new Form5(this, group);
+                Form form5 = new Form5(this, group, menuButton_7.Text);
                 form5.Show();
             }
         }
@@ -784,12 +784,12 @@ namespace KioskCafe
             addTotalPrice(price_8);
             if (Topping == 1)
             {
-                Form form3 = new Form3(this, group);
+                Form form3 = new Form3(this, group, menuButton_8.Text);
                 form3.Show();
             }
             else if (Topping == 2)
             {
-                Form form5 = new Form5(this, group);
+                Form form5 = new Form5(this, group, menuButton_8.Text);
                 form5.Show();
             }
         }
@@ -806,12 +806,12 @@ namespace KioskCafe
             addTotalPrice(price_9);
             if (Topping == 1)
             {
-                Form form3 = new Form3(this, group);
+                Form form3 = new Form3(this, group, menuButton_9.Text);
                 form3.Show();
             }
             else if (Topping == 2)
             {
-                Form form5 = new Form5(this, group);
+                Form form5 = new Form5(this, group, menuButton_9.Text);
                 form5.Show();
             }
         }
@@ -828,12 +828,12 @@ namespace KioskCafe
             addTotalPrice(price_10);
             if (Topping == 1)
             {
-                Form form3 = new Form3(this, group);
+                Form form3 = new Form3(this, group, menuButton_10.Text);
                 form3.Show();
             }
             else if (Topping == 2)
             {
-                Form form5 = new Form5(this, group);
+                Form form5 = new Form5(this, group, menuButton_10.Text);
                 form5.Show();
             }
         }
@@ -850,12 +850,12 @@ namespace KioskCafe
             addTotalPrice(price_11);
             if (Topping == 1)
             {
-                Form form3 = new Form3(this, group);
+                Form form3 = new Form3(this, group, menuButton_11.Text);
                 form3.Show();
             }
             else if (Topping == 2)
             {
-                Form form5 = new Form5(this, group);
+                Form form5 = new Form5(this, group, menuButton_11.Text);
                 form5.Show();
             }
         }
@@ -872,12 +872,12 @@ namespace KioskCafe
             addTotalPrice(price_12);
             if (Topping == 1)
             {
-                Form form3 = new Form3(this, group);
+                Form form3 = new Form3(this, group, menuButton_12.Text);
                 form3.Show();
             }
             else if (Topping == 2)
             {
-                Form form5 = new Form5(this, group);
+                Form form5 = new Form5(this, group, menuButton_12.Text);
                 form5.Show();
             }
         }

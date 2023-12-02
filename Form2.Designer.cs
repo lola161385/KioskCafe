@@ -625,7 +625,7 @@
             Controls.Add(backButton);
             Controls.Add(dessertButton);
             Name = "Form2";
-            Text = "Form2";
+            Text = "주문정보";
             Load += Form2_Load;
             ResumeLayout(false);
             PerformLayout();

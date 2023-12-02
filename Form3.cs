@@ -21,11 +21,12 @@ namespace KioskCafe
             this.Close();
         }
 
-        public Form3(Form2 mainForm, ListViewGroup group)
+        public Form3(Form2 mainForm, ListViewGroup group, string buttonText)
         {
             InitializeComponent();
             this.mainForm = mainForm;
             this.group = group;                         // ListViewGroup을 저장
+            this.Text = buttonText;
         }
 
 

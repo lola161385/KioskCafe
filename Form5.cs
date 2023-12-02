@@ -18,11 +18,12 @@ namespace KioskCafe
         private string DangDo;
         private string DangDoPrice;
 
-        public Form5(Form2 mainForm, ListViewGroup group)
+        public Form5(Form2 mainForm, ListViewGroup group, string ButtonText)
         {
             InitializeComponent();
             this.mainForm = mainForm;
             this.group = group; // ListViewGroup을 저장합니다.
+            this.Text = ButtonText;
         }
         public void Form5_Load(object sender, EventArgs e)
         {
