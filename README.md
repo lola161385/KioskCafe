@@ -1,29 +1,16 @@
-![HEADER](https://user-images.githubusercontent.com/44064122/180398132-4a3d6328-f638-4d82-b4ab-22b1ae069af9.png)
+# Cafe_Kiosk
 
 ## 😃 개요
 
-[누구나 키오스크](https://www.everyonekiosk.com)는,
+[Cafe_Kiosk]는,
 
-- 키오스크 기계 없이 가입만 하면 웹에서 바로 사용이 가능합니다.
-- 누구나 쉽게 자신의 가게를 등록할 수 있습니다.(여러개 등록 가능)
-- 등록한 가게마다 상품을 등록하고 판매 할 수 있습니다.
-- 고객의 주문 상태를 관리하여 가게의 혼잡한 상황을 최소화 할 수 있습니다.
+- 대학 과제로 인해 제작하게 되었습니다.
 
 지금 바로
-<a href="https://www.everyonekiosk.com">
-<img src="https://img.shields.io/badge/누구나 키오스크-61DAFB?style=for-the-badge&logoColor=white" />
-</a> 데모를 만나보세요.
 
 ## 😅 공지.
-
-[build 이슈](https://github.com/movie42/kiosk-frontend/wiki/%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85/_edit#React-Build-%EC%9D%B4%ED%9B%84%EC%97%90-%ED%99%98%EA%B2%BD-%EB%B3%80%EC%88%98%EA%B0%92%EC%9D%B4-%EC%A0%81%EC%9A%A9%EB%90%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%AC%B8%EC%A0%9C)로 어플리케이션의 주문과 사진 등록이 되지 않습니다.  
-더미 데이터가 등록된 아이디로 어플리케이션을 체험해볼 수 있습니다.  
-id : a@test.com  
-pw : 123qwe!@
-
-## 📑 위키
-
-개발 과정에 대한 자세한 이야기는 [위키](https://github.com/movie42/kiosk-frontend/wiki)에서 만나보세요!
+- 이미지는 (메가커피, 이디야, 공차, 스무디킹, 요거프레소, 구글 이미지)등 에서 스크린샷으로 제작되었습니다
+  └ 비상업적 용도 임을 밝힙니다.(자세한 저작권 문제를 알고 계신분은 메일을 통해 알려주시면 감사하겠습니다.)
 
 ## ✍️ 주요 기능
 
@@ -31,12 +18,10 @@ pw : 123qwe!@
 
 https://user-images.githubusercontent.com/44064122/180661805-87a78eb2-ca02-42cd-beb0-8bab98f0021d.mp4
 
-### Easy Start
+### Form1
+- 매장 / 포장 선택
 
-- 키오스크 기계 없이 컴퓨터 또는 고객의 핸드폰으로 주문을 하고 관리할 수 있습니다.
-- 초기 비용이 거의 필요가 없습니다.
-
-### 🦸🏽‍♂️ 회원가입/로그인
+### Form2
 
 - 간편하게 이메일과 이름을 입력하면 가입할 수 있습니다.
 
