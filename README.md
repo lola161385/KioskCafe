@@ -76,15 +76,11 @@
     - 현금 입력창에 총 금액보다 크거나 같으면 결제 완료
     - 취소 버튼 누르면 초기 결제 창으로 이동
   - 카드 결제
-    <p align="left">
-        <img src="https://github.com/lola161385/KioskCafe/assets/35729214/b3d793fc-f8da-4de4-8dc8-37859b85d430">
-     </p>
-      
+    - 결제 완료
   - 쿠폰 결제
-    <p align="left">
-        <img src="https://github.com/lola161385/KioskCafe/assets/35729214/b3d793fc-f8da-4de4-8dc8-37859b85d430">
-     </p>
-
+    - 결제 완료
+  - 영수증 출력 & 주문 번호만 출력
+    
 
 ### 🖥 고객 주문 화면
 
