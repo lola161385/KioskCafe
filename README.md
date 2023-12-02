@@ -40,10 +40,23 @@
   <img src="https://github.com/lola161385/KioskCafe/assets/35729214/a7d94646-3ad7-46b0-b162-b46e0ae702e7">
 </p>
 
-### Form3
+### Form3 & Form5
+#### Form3
 - 토핑 선택 창의 이름은 선택된 메뉴의 이름이 표시됩니다.
+- 토핑을 클릭하면 Form2의 총 금액 부분에 Plus됩니다.
+- 닫기를 원한다면 Finish 버튼을 클릭
+<p align="left">
+  <img src="https://github.com/lola161385/KioskCafe/assets/35729214/659777c1-b791-4ef7-8d6a-8582a8b9d7d6">
+</p>
 
-### 👨🏻‍🌾 고객 주문 관리
+#### Form5
+- 토핑 선택 창의 이름은 선택된 메뉴의 이름이 표시 됩니다.
+- 토핑을 클릭하면 Form2의 총 금액 부분에 Plus됩니다.
+- 당도 선택은 radioButton으로 3가지중 한개만 선탣 될 수 있게 구현
+- 아무것도 클릭하지 않을시 Finish버튼이 눌리지 않음
+- 닫기를 원한다면 Finish 버튼을 클릭
+
+### Form4
 
 - 고객이 한 주문을 손쉽게 알아볼 수 있습니다. 각 단계별 텝에서 고객 주문을 관리 할 수 있습니다.
 - 검색을 통해 고객 주문을 쉽게 찾을 수 있습니다.
