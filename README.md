@@ -55,16 +55,20 @@
 - 당도 선택은 radioButton으로 3가지중 한개만 선탣 될 수 있게 구현
 - 아무것도 클릭하지 않을시 Finish버튼이 눌리지 않음
 - 닫기를 원한다면 Finish 버튼을 클릭
-- 
+
 <p align="left">
   <img src="https://github.com/lola161385/KioskCafe/assets/35729214/b3d4ac45-1987-49c6-aac8-ab3fc893f9ab">
 </p>
 
 ### Form4
-
-- 고객이 한 주문을 손쉽게 알아볼 수 있습니다. 각 단계별 텝에서 고객 주문을 관리 할 수 있습니다.
-- 검색을 통해 고객 주문을 쉽게 찾을 수 있습니다.
-- 고객 주문 상태를 손쉽게 확인할 수 있어 손님이 많이 몰려도 가게의 혼란을 최소화할 수 있습니다.
+- 결제 창
+  - 현금 결제
+     - 
+  - 카드 결제
+  - 쿠폰 결제
+<p align="left">
+  <img src="https://github.com/lola161385/KioskCafe/assets/35729214/3e8cb647-d01e-4770-aced-5642c9dabbbf">
+</p>
 
 ### 🖥 고객 주문 화면
 
