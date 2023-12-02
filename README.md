@@ -55,6 +55,10 @@
 - 당도 선택은 radioButton으로 3가지중 한개만 선탣 될 수 있게 구현
 - 아무것도 클릭하지 않을시 Finish버튼이 눌리지 않음
 - 닫기를 원한다면 Finish 버튼을 클릭
+- 
+<p align="left">
+  <img src="https://github.com/lola161385/KioskCafe/assets/35729214/b3d4ac45-1987-49c6-aac8-ab3fc893f9ab">
+</p>
 
 ### Form4
 
